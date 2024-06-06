@@ -11,6 +11,10 @@ class Calculator
     int sub(int a, int b){
         return Math.abs(a-b);
     }
+
+    int multiply(int a, int b){
+        return a*b;
+    }
 }
 
 class Addition
