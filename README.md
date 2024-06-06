@@ -1,0 +1,1 @@
+- This repo contains all the JAVA programs that I practiced in my learning journey.
