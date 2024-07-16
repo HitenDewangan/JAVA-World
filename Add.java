@@ -10,5 +10,7 @@ public class Add{
         System.out.println("sum is: " + a + b);
         System.out.println("sum is: " + (a + b));
 
+        scan.close();
+
     }
 }

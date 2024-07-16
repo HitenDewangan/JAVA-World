@@ -34,6 +34,8 @@ class Addition
         System.out.println("The Sum is: " + c.add(a,b));
         System.out.println("The difference is: " + c.sub(a,b));
 
+        scan.close();
+
     }
 }
 
