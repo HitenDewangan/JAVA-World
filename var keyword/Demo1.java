@@ -2,7 +2,14 @@ class Demo1 {
     public static void main(String[] args) {
         // int
         var x = 100;
- 
+
+        // float
+        var o = 9.1f;
+        o = 10.1f;
+        o = 11.1f;
+
+        // long
+        var a = 769L;
         // double
         var y = 1.90;
  
@@ -22,5 +29,10 @@ class Demo1 {
         System.out.println(z);
         System.out.println(p);
         System.out.println(q);
+
+        System.out.println(o);
+
+        System.out.println(a);
+        
     }
 }
